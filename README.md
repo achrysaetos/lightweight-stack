@@ -7,6 +7,5 @@ Optimized for DX and speed.
 * SQLModel, SQLite
 
 **Frontend:**
-* Vite or Nextjs
-* React, TypeScript
+* Vite or Nextjs, React, TypeScript
 * Chakra UI

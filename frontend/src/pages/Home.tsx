@@ -8,11 +8,11 @@ export default function App() {
 
   if (error) return <div>failed to load</div>
   if (!data) return <div>loading...</div>
-  console.log(data)
+  // console.log(data)
 
   return (
     <>
-      <Box>{data[2].email}</Box>
+      {/* <Box>{data[2].email}</Box> */}
     </>
   )
 }
